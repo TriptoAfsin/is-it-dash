@@ -1,0 +1,18 @@
+{
+  "name": "is-it-dash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://github.com/TriptoAfsin/simple-random-stuff",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "regex",
+    "validation",
+    "checker",
+    "data"
+  ],
+  "author": "Tripto Afsin",
+  "license": "ISC"
+}

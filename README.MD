@@ -1,7 +1,7 @@
 # Is-It-Dash
 This is a simple 0 dependency data validation library for Node.js, React, Angular, Vue, Vanilla JS etc
 
-<p align="center"><img src="isIt_.png" width="256px" alt="Logo"></img></p>
+<p align="center"><img src="./isIt_.png" width="256px" alt="Logo"></img></p>
 
 ### Features - 
 1. Datatype Validations - String, Number, Integer, Float

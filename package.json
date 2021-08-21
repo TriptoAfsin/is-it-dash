@@ -11,7 +11,11 @@
     "regex",
     "validation",
     "checker",
-    "data"
+    "data",
+    "password",
+    "url",
+    "email",
+    "form"
   ],
   "author": "Tripto Afsin",
   "license": "ISC"
